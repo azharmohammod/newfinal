@@ -1,0 +1,6 @@
+{
+  "name": "Student Information Portal - Sylhet Polytechnic Institute",
+  "description": "A modern, professional student information and academic resource portal for Sylhet Polytechnic Institute, Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
